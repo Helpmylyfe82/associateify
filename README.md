@@ -1,4 +1,4 @@
-associateify
+Amazon associate ID number 1234502051-20 MDP/associateify
 ============
 License: MIT
 
