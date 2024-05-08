@@ -1,4 +1,4 @@
-associateify
+https://www.amazon.com/s?k=sitestripe&crid=1396HYOADNT0M&sprefix=%2Caps%2C184&linkCode=ll2&tag=1234502051-20&linkId=9c244e4a75aefb72c46cef0b07a3be91&language=en_US&ref_=as_li_ss_tlassociateify
 ============
 License: MIT
 
